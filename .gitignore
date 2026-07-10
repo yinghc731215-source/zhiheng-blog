@@ -1,0 +1,16 @@
+# Hugo
+public/
+.hugo_build.lock
+/resources/_gen/
+assets/css/hugo-easy-gallery/
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
